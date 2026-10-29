@@ -1,31 +1,37 @@
 body {
-    background-image: url(img/fondo.png);
+    background-image: url(../img/fondo.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
 }
+
 header {
-    background-image: url(img/header.jpeg);
+    background-image: url(../img/header.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.9;
     height: 300px;
 }
+
 .container {
     background-color: black;
     opacity: 0.7;
     box-shadow: 0px 0px 30px white;
 }
+
 .card {
     border: solid 3.5px white;
     border-radius: 10px;
 }
+
 .card-body2 {
     text-align: left;
 }
+
 .bg-footer {
     background-color: #4E4F53;
 }
+
 .pokeball {
     float: right;
 }
