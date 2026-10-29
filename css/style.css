@@ -1,0 +1,59 @@
+body {
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-image: url(../img/header.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+header h1 {
+    letter-spacing: 3px;
+    padding: 8px 0;
+}
+
+header h4 {
+    text-shadow: 2px 2px 4px black;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 30px white;
+}
+
+.card {
+    border: solid 3.5px white;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card-img {
+    padding: 10px;
+}
+
+.card-body2 {
+    text-align: left;
+}
+
+.bg-footer {
+    background-color: #4E4F53;
+}
+
+.pokeball {
+    float: right;
+}
+
+footer {
+    width: 100%;
+}
