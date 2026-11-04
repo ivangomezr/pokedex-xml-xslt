@@ -86,7 +86,7 @@ When the XML file is opened, the browser applies the XSLT and renders the genera
 ## 📁 Project Structure
 
 ```
-pokedex/
+pokedex-xml-xslt/
 ├── pokedex.xml      # Data: description, types and 30 Pokémon
 ├── style.xsl        # XSLT transformation to HTML
 ├── index.html       # Pre-rendered preview (12 Pokémon)
@@ -107,8 +107,8 @@ Browsers block XSLT on local files (`file://`), so `pokedex.xml` has to be serve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ivangomezr/pokemon-pair-matching-game.git
-   cd pokemon-pair-matching-game
+   git clone https://github.com/ivangomezr/pokedex-xml-xslt.git
+   cd pokedex-xml-xslt
    ```
 2. Start a local server, for example with Python:
    ```bash
