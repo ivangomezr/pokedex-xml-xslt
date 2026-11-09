@@ -1,5 +1,11 @@
 # ⚡ Pokédex — XML + XSLT Web Page
 
+![XML](https://img.shields.io/badge/XML-005FAD)
+![XSLT](https://img.shields.io/badge/XSLT-8A2BE2)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 A Pokédex web page generated entirely from an **XML document** and transformed into HTML with **XSLT**. It lists every Pokémon type and a selection of **30 Pokémon** across several generations, with their official artwork, base stats and types.
 
 > 🎓 **Academic project.** Built for the **Markup Languages and Information Management Systems** module (*Lenguajes de Marcas y Sistemas de Gestión de Información, LMSGI*) of the **Higher National Diploma in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 1st year.
@@ -86,7 +92,7 @@ When the XML file is opened, the browser applies the XSLT and renders the genera
 ## 📁 Project Structure
 
 ```
-pokedex/
+pokedex-xml-xslt/
 ├── pokedex.xml      # Data: description, types and 30 Pokémon
 ├── style.xsl        # XSLT transformation to HTML
 ├── index.html       # Pre-rendered preview (12 Pokémon)
@@ -107,8 +113,8 @@ Browsers block XSLT on local files (`file://`), so `pokedex.xml` has to be serve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ivangomezr/pokemon-pair-matching-game.git
-   cd pokemon-pair-matching-game
+   git clone https://github.com/ivangomezr/pokedex-xml-xslt.git
+   cd pokedex-xml-xslt
    ```
 2. Start a local server, for example with Python:
    ```bash
