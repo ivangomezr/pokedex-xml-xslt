@@ -1,5 +1,11 @@
 # ⚡ Pokédex — XML + XSLT Web Page
 
+![XML](https://img.shields.io/badge/XML-005FAD)
+![XSLT](https://img.shields.io/badge/XSLT-8A2BE2)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 A Pokédex web page generated entirely from an **XML document** and transformed into HTML with **XSLT**. It lists every Pokémon type and a selection of **30 Pokémon** across several generations, with their official artwork, base stats and types.
 
 > 🎓 **Academic project.** Built for the **Markup Languages and Information Management Systems** module (*Lenguajes de Marcas y Sistemas de Gestión de Información, LMSGI*) of the **Higher National Diploma in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 1st year.
