@@ -8,7 +8,7 @@
 
 A Pokédex web page generated entirely from an **XML document** and transformed into HTML with **XSLT**. It lists every Pokémon type and a selection of **30 Pokémon** across several generations, with their official artwork, base stats and types.
 
-> 🎓 **Academic project.** Built for the **Markup Languages and Information Management Systems** module (*Lenguajes de Marcas y Sistemas de Gestión de Información, LMSGI*) of the **Higher National Diploma in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 1st year.
+> 🎓 **Academic project.** Built for the **Markup Languages and Information Management Systems** module (*Lenguajes de Marcas y Sistemas de Gestión de Información, LMSGI*) of the **Higher Vocational Degree in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 1st year.
 
 ---
 
